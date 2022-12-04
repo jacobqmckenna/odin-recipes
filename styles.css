@@ -1,9 +1,18 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: blue;
+    background: linear-gradient(.25turn, #3f87a6, #ebf8e1, #f69d3c);
 }
 
 h1 {
-    color: orange;
-    size: 100px;
+    color: black;
+    font-size: 100px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+ul, ol, p {
+    font-size: 20px;
 }
